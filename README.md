@@ -1,4 +1,4 @@
-Quake Report App (Ongoing Project)
+Quake Report App
 ===================================
 
 This is my implementation of an application which displays a list of recent earthquakes in the world
